@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9010548-cf40-438e-a76a-7ce57ba9c90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Categoria.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Curso.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Profesor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Tema.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Video.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_172725_create_profesores_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_172800_create_categorias_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_172826_create_cursos_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_173120_create_temas_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_173129_create_videos_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_19_173247_create_users_cursos_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/CategoriaFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/CursoFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/ProfesorFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/CursosTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Profesor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profesor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571504360250</updated>
       <workItem from="1571504368124" duration="2047000" />
-      <workItem from="1571524918592" duration="2319000" />
+      <workItem from="1571524918592" duration="5707000" />
     </task>
     <servers />
   </component>
