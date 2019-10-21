@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9010548-cf40-438e-a76a-7ce57ba9c90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/factories/CategoriaFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/factories/CursoFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/factories/ProfesorFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/CursosTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profesor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profesor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1571504360250</updated>
       <workItem from="1571504368124" duration="2047000" />
-      <workItem from="1571524918592" duration="5707000" />
+      <workItem from="1571524918592" duration="5826000" />
+      <workItem from="1571606615156" duration="2492000" />
     </task>
     <servers />
   </component>
